@@ -1,0 +1,18 @@
+{
+  "name": "webpack-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundler.js",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/parser": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/traverse": "^7.8.3"
+  },
+  "scripts": {
+    "start": "node bundler.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
